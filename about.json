@@ -1,5 +1,5 @@
 {
-  "name": "Matomo Analytics",
+  "name": "Matomo Analytics (Univention)",
   "about_url": "https://meta.discourse.org/t/how-to-enable-matomo-analytics-on-discourse/33090",
   "license_url": "https://github.com/discourse/discourse-matomo-analytics/blob/master/LICENSE",
   "component": true
